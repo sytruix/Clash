@@ -12,15 +12,15 @@ proxies:
   - {name: 🇺🇸 美国-CDN4, server: 172.67.70.70, port: 443, type: vmess, uuid: 9e65c176-20bf-4c37-ebe8-0f43fc14cc11, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us0512.txrui.top}}}
   - {name: 🇺🇸 美国-CDN5, server: 104.20.22.64, port: 443, type: vmess, uuid: 9e65c176-20bf-4c37-ebe8-0f43fc14cc11, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us0512.txrui.top}}}
   - {name: 🇺🇸 美国-CDN6, server: 172.64.229.191, port: 443, type: vmess, uuid: 9e65c176-20bf-4c37-ebe8-0f43fc14cc11, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us0512.txrui.top}}}
-  - {name: 🇺🇸 _US_美国->🇫🇷_FR_法国, server: 172.67.130.140, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国, server: 104.19.250.15, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国 2, server: 104.18.36.119, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国 3, server: 104.19.250.15, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国 4, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
-  - {name: 🇺🇸 _US_美国->🇫🇷_FR_法国 2, server: s1c.v2.v001sss.xyz, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}}
-  - {name: 🇺🇸 _US_美国->🇫🇷_FR_法国 3, server: 104.21.8.157, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国 5, server: 104.18.36.119, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
-  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国 6, server: 104.18.19.191, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
+  - {name: 🇺🇸 _US_美国->🇫🇷_FR_法国1, server: 172.67.130.140, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}}
+  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国1, server: 104.19.250.15, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
+  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国2, server: 104.18.36.119, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
+  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国3, server: 104.19.250.15, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
+  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国4, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
+  - {name: 🇺🇸 _US_美国->🇫🇷_FR_法国2, server: s1c.v2.v001sss.xyz, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}}
+  - {name: 🇺🇸 _US_美国->🇫🇷_FR_法国3, server: 104.21.8.157, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s1c.v2.v001sss.xyz}}}
+  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国4 2, server: 104.18.36.119, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
+  - {name: 🇺🇸 _US_美国->🇩🇪_DE_德国5, server: 104.18.19.191, port: 2052, type: vmess, uuid: aec82fa6-ab70-4d0a-e7fb-422ef729d961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: helanv6cf.inekokkk.top}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -34,15 +34,15 @@ proxy-groups:
       - 🇺🇸 美国-CDN4
       - 🇺🇸 美国-CDN5
       - 🇺🇸 美国-CDN6
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 3
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 4
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国 2
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国 3
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 5
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 6
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国1
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国1
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国2
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国3
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国4
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国2
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国3
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国4 2
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国5
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -56,15 +56,15 @@ proxy-groups:
       - 🇺🇸 美国-CDN4
       - 🇺🇸 美国-CDN5
       - 🇺🇸 美国-CDN6
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 3
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 4
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国 2
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国 3
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 5
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 6
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国1
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国1
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国2
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国3
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国4
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国2
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国3
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国4 2
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国5
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -89,15 +89,15 @@ proxy-groups:
       - 🇺🇸 美国-CDN4
       - 🇺🇸 美国-CDN5
       - 🇺🇸 美国-CDN6
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 2
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 3
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 4
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国 2
-      - 🇺🇸 _US_美国->🇫🇷_FR_法国 3
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 5
-      - 🇺🇸 _US_美国->🇩🇪_DE_德国 6
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国1
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国1
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国2
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国3
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国4
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国2
+      - 🇺🇸 _US_美国->🇫🇷_FR_法国3
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国4 2
+      - 🇺🇸 _US_美国->🇩🇪_DE_德国5
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
