@@ -2201,13 +2201,6 @@ DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,githack.com
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,githubmemory.com
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitmemory.com
 DOMAIN-SUFFIX,gizlen.net
 DOMAIN-SUFFIX,gjczz.com
@@ -6731,6 +6724,9 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubmemory.com
 
 # Google
 DOMAIN-SUFFIX,1e100.net
