@@ -1,5 +1,10 @@
 # 代理列表
 
+# 自定义添加
+DOMAIN-SUFFIX,icc2022.com
+DOMAIN-SUFFIX,lgb.cx
+DOMAIN-SUFFIX,mikanani.me
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
