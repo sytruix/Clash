@@ -27,3 +27,5 @@ PROCESS-NAME,Weiyun.exe
 PROCESS-NAME,baidunetdisk.exe
 # Xbox
 URL-REGEX,assets\d+\.xboxlive\.(com|cn)
+# AdGuardHome
+PROCESS-NAME,AdGuardHome
